@@ -4,6 +4,8 @@ added line#1 to test creating branches.
 
 added line#2 to test creating branches anf working on it.
 
+added line#3 in gitHub to test resolving conflicts.
+
 added line#4 in local branch to test resolving conflicts.
 
 added line#5 in local branch to test resolving conflicts.
