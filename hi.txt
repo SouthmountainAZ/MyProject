@@ -20,3 +20,5 @@ added new line #7 as of 07/22/2023 to test Git clone feature again.
 added new line $8 as of 207/22/2023 to test TortoiseGit->Add feature.
 
 added enhancement $9 as of 207/22/2023 to test TortoiseGit->create branches.
+
+added enhancement $10 as of 07/29/2023 to test TortoiseGit->resolve conflicts.
